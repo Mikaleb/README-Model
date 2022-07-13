@@ -2,7 +2,7 @@
 
 # Readme Model
 
-[![GitHub license](https://img.shields.io/github/license/Mikaleb/README-Model)](https://github.com/Mikaleb/README-Model/blob/main/LICENSE.md)(https://github.com/Mikaleb/README-Model/releases)   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![GitHub license](https://img.shields.io/github/license/Mikaleb/README-Model)](https://github.com/Mikaleb/README-Model/blob/main/LICENSE.md) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 Description for a [general README model](https://github.com/Mikaleb/README-Model) ([source code](https://github.com/Mikaleb/README-Model)). Blablablabl ablalbla .
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempor dui id hendrerit. Ut ac gravida ligula. Mauris egestas erat enim, et gravida justo dapibus quis. 
