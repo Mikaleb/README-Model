@@ -32,7 +32,7 @@ Please see [here](https://github.com/Mikaleb/README-Model/wiki/FAQ) for a list o
 
 ## Contribution
 
-README-Model is an open source project and we are very happy to accept community contributions. Please refer to Contributing to [README-Model page](https://github.com/Mikaleb/README-Model/blob/main/LICENSE.md for more details.
+README-Model is an open source project and we are very happy to accept community contributions. Please refer to Contributing to [README-Model page](https://github.com/Mikaleb/README-Model/blob/main/LICENSE.md) for more details.
 
 If you run into a bug or miss a feature, please [open an issue](https://github.com/Mikaleb/README-Model/issues) in this repository.
 
