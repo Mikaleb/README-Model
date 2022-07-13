@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 ## How to get / Downloads `optional`
 
 <a href='https://play.google.com/store/apps/details'><img alt='Get it on Google Play' height="80" src='assets/google-play-badge.png'/></a><a href='https://f-droid.org/fr/packages/'><img alt='Get it on F-Droid' height="80" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a>
-<a href="https://apps.microsoft.com/store/app-badge"><img height="80" src='assets/ms-badge.png" /></a>
+<a href="https://apps.microsoft.com/store/app-badge"><img height="80" src="assets/ms-badge.png" /></a>
 
 ## Screenshots
 
