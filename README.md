@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 
 ## How to get / Downloads `optional`
 
-<a href='https://play.google.com/store/apps/details'><img alt='Get it on Google Play' height="80" src='assets/google-play-badge.png'/></a><a href='https://f-droid.org/fr/packages/'><img alt='Get it on F-Droid' height="80" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a><a href='https://github.com/'><img alt='Get it on GitHub' height="80" src='https://img.shields.io/badge/Github-Source-333?logo=github'/></a>
+<a href='https://play.google.com/store/apps/details'><img alt='Get it on Google Play' height="80" src='assets/google-play-badge.png'/></a><a href='https://f-droid.org/fr/packages/'><img alt='Get it on F-Droid' height="80" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a><a href='https://github.com/'><img alt='Get it on GitHub' src='https://img.shields.io/badge/Github-Source-333?logo=github'/></a>
 
 ## Screenshots
 
