@@ -23,6 +23,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 * Feature 3
 * Dark Mode
 
+# How to install
+
+```shell
+cp config/puma.example.development.rb config/puma.rb
+```
+
 ## Compatibility `optional`
 
 Wonderful product is available on Windows / Linux / MacOS. requires at least Android 5.0 Lollipop and works properly on devices without any Google service installed.
