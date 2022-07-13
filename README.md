@@ -1,4 +1,4 @@
-<img src="assets/header.png" />
+<img src="https://picsum.photos/1000/320" />
 
 # Readme Model
 
