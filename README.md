@@ -3,13 +3,14 @@
 # Readme Model
 
 [![GitHub license](https://img.shields.io/github/license/Mikaleb/README-Model)](https://github.com/Mikaleb/README-Model/blob/main/LICENSE.md) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+<a href='https://github.com/'><img alt='Get it on GitHub' src='https://img.shields.io/badge/Github-Source-333?logo=github'/></a>
 
 Description for a [general README model](https://github.com/Mikaleb/README-Model) ([source code](https://github.com/Mikaleb/README-Model)). Blablablabl ablalbla .
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempor dui id hendrerit. Ut ac gravida ligula. Mauris egestas erat enim, et gravida justo dapibus quis. 
 
 ## How to get / Downloads `optional`
 
-<a href='https://play.google.com/store/apps/details'><img alt='Get it on Google Play' height="80" src='assets/google-play-badge.png'/></a><a href='https://f-droid.org/fr/packages/'><img alt='Get it on F-Droid' height="80" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a><a href='https://github.com/'><img alt='Get it on GitHub' src='https://img.shields.io/badge/Github-Source-333?logo=github&style=for-the-badge'/></a>
+<a href='https://play.google.com/store/apps/details'><img alt='Get it on Google Play' height="80" src='assets/google-play-badge.png'/></a><a href='https://f-droid.org/fr/packages/'><img alt='Get it on F-Droid' height="80" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a>
 
 ## Screenshots
 
