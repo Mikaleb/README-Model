@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 
 ## Screenshots
 
-<a href="https://picsum.photos/450/800?random=1" style="margin:1rem"><img src="https://picsum.photos/450/800?random=1" width="200px"/></a>   <a href="https://picsum.photos/450/800?random=2" style="margin:1em"><img src="https://picsum.photos/450/800?random=2" width="200px"/></a>    <a href="https://picsum.photos/450/800?random=3" style="margin:1rem"><img src="https://picsum.photos/450/800?random=3" width="200px"/></a>
+<a href="https://picsum.photos/450/800?random=1"><img src="https://picsum.photos/450/800?random=1" width="200px"/></a>   <a href="https://picsum.photos/450/800?random=2"><img src="https://picsum.photos/450/800?random=2" width="200px"/></a>    <a href="https://picsum.photos/450/800?random=3"><img src="https://picsum.photos/450/800?random=3" width="200px"/></a>
 
 ## Features
 
