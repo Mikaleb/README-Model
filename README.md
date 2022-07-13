@@ -25,8 +25,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 
 # How to install
 
+To work on this project, lorem ipsum dolor sit amet
+
 ```shell
-cp config/puma.example.development.rb config/puma.rb
+cp * *
 ```
 
 ## Compatibility `optional`
