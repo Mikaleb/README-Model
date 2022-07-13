@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis tempo
 
 ## Screenshots
 
-<a href="assets/screen1.png"><img src="assets/screen1.png" width="200px"/></a><a href="assets/screen2.png"><img src="assets/screen2.png" width="200px"/></a><a href="assets/screen3.png"><img src="assets/screen3.png" width="200px"/></a>
+<a href="https://picsum.photos/200/350?random=1"><img src="https://picsum.photos/200/350?random=1" width="200px"/></a><a href="https://picsum.photos/200/350?random=2"><img src="https://picsum.photos/200/350?random=2" width="200px"/></a><a href="https://picsum.photos/200/350?random=3"><img src="https://picsum.photos/200/350?random=3" width="200px"/></a>
 
 ## Features
 
